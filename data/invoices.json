@@ -1,0 +1,37 @@
+[
+  {
+    "invoiceId": "INV-1731896057457",
+    "type": "Accident",
+    "description": "Accident at lane",
+    "fineAmount": 2000,
+    "issuedAt": "2024-11-18T02:14:17.457Z"
+  },
+  {
+    "invoiceId": "INV-1731896277851",
+    "type": "Signal Jump",
+    "description": "Jumped red light at intersection",
+    "fineAmount": 1500,
+    "issuedAt": "2024-11-18T02:17:57.851Z"
+  },
+  {
+    "invoiceId": "INV-1731896312016",
+    "type": "Illegal Parking",
+    "description": "Parked in a no-parking zone",
+    "fineAmount": 500,
+    "issuedAt": "2024-11-18T02:18:32.016Z"
+  },
+  {
+    "invoiceId": "INV-1731940937744",
+    "type": "Major Accident",
+    "description": "Collision involving multiple vehicles",
+    "fineAmount": 5000,
+    "issuedAt": "2024-11-18T14:42:17.744Z"
+  },
+  {
+    "invoiceId": "INV-1731941066971",
+    "type": "Major Accident",
+    "description": "Collision involving multiple vehicles",
+    "fineAmount": 5000,
+    "issuedAt": "2024-11-18T14:44:26.971Z"
+  }
+]

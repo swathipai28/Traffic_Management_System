@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2024-11-18T01:58:16.708Z"
+  },
+  {
+    "type": "Over Speeding",
+    "description": "Driving above speed limit",
+    "severity": 3,
+    "fineAmount": 1000,
+    "timestamp": "2024-11-18T01:59:28.188Z"
+  },
+  {
+    "type": "Accident",
+    "description": "Accident at lane",
+    "severity": 1,
+    "fineAmount": 2000,
+    "timestamp": "2024-11-18T02:14:17.457Z"
+  },
+  {
+    "type": "Signal Jump",
+    "description": "Jumped red light at intersection",
+    "severity": 4,
+    "fineAmount": 1500,
+    "timestamp": "2024-11-18T02:17:57.851Z"
+  },
+  {
+    "type": "Illegal Parking",
+    "description": "Parked in a no-parking zone",
+    "severity": 2,
+    "fineAmount": 500,
+    "timestamp": "2024-11-18T02:18:32.016Z"
+  },
+  {
+    "type": "Major Accident",
+    "description": "Collision involving multiple vehicles",
+    "severity": 5,
+    "fineAmount": 5000,
+    "timestamp": "2024-11-18T14:44:26.971Z"
+  }
+]
